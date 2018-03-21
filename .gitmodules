@@ -1,0 +1,21 @@
+[submodule "bash_profile"]
+	path = bash_profile
+	url = git@gist.github.com:5176d35739a0f4e7acfd.git
+[submodule "bashrc"]
+	path = bashrc
+	url = git@gist.github.com:f3b61fcd1fa946df6dac.git
+[submodule "bash_functions"]
+	path = bash_functions
+	url = git@gist.github.com:894d8c2d1d4813c36b7d36e9a97aedd6.git
+[submodule "qsub"]
+	path = qsub
+	url = git@gist.github.com:92f028bf7cf6d175ae4cbb64bbb6883c.git
+[submodule "atom/snippets"]
+	path = atom/snippets
+	url = git@gist.github.com:36d826e0d20444749191.git
+[submodule "shiny/shiny_references"]
+	path = shiny/shiny_references
+	url = git@gist.github.com:c4f82f3db918779fae7a4a136b02ace4.git
+[submodule "crontab"]
+	path = crontab
+	url = git@gist.github.com:9a48a3b9ef32d93d15f45c3f007550b4.git
