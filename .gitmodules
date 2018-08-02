@@ -22,3 +22,9 @@
 [submodule "qsub/cellranger"]
 	path = qsub/cellranger
 	url = git@gist.github.com:f6c57474bb077d2acd293092cf7fa449.git
+[submodule "bash/bashTricks"]
+	path = bash/bashTricks
+	url = git@gist.github.com:4476778f9086c77ccac5.git
+[submodule "macOS"]
+	path = macOS
+	url = git@gist.github.com:8fc4f729b31f1307f7d9d7712d4eed15.git
